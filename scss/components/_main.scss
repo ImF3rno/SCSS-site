@@ -1,0 +1,39 @@
+main{
+    margin-top: 5rem;
+}
+.first-block{
+    gap:2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text-gap{
+    display: flex;
+    flex-direction: column;
+    gap:5rem;
+}
+.start-learning{
+    color: #000;
+    font-family: Poppins;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 26.75rem;
+}
+.lorem{
+    color: rgba(0, 0, 0, 0.46);
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 34.375rem;
+}
+.btn-2{
+    border-radius: 0.625rem;
+    background: #682C0E;
+    width: 12.5rem;
+    height: 2.75rem;
+    flex-shrink: 0;
+}

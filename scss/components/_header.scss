@@ -1,0 +1,45 @@
+.header{
+    width: 100%;
+    height: 7.75rem;
+    flex-shrink: 0;
+    background: #F9E0AE;
+    padding-top: 2.5rem;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.container-head{
+    display: flex;
+    flex-direction: row;
+}
+.container>.container-head>.educare{
+    color: #000;
+    font-family: Jim Nightshade;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.navbar-nav{
+    gap:2.5rem;
+}
+.nav-link{
+    color: #000;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.btn{
+    border-radius: 0.625rem;
+    background: #C24914;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
